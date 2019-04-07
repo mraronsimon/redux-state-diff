@@ -1,6 +1,6 @@
 # redux-state-diff
 
-I's a simple addition for a smart NPM package, **deep-diff**.
+It's a simple addition of, a smart NPM package, **deep-diff** for **Redux**.
 
 If something changed on a **Redux store**, every object and array have been repacked on the path of the change.
 
