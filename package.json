@@ -1,0 +1,30 @@
+{
+  "name": "redux-state-diff",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mraronsimon/redux-state-diff.git"
+  },
+  "keywords": [
+    "diff",
+    "difference",
+    "compare",
+    "change-tracking",
+    "redux"
+  ],
+  "author": "Aron Simon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mraronsimon/redux-state-diff/issues"
+  },
+  "homepage": "https://github.com/mraronsimon/redux-state-diff#readme",
+  "dependencies": {
+    "deep-diff": "^1.0.2",
+    "lodash": "^4.17.11"
+  }
+}
